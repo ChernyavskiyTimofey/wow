@@ -69,6 +69,8 @@ Where `Header` is one go:
 
 `Body` is an optional value with payload structure (it depends on the header type).
 
+[There](./protocol.puml) is located a sequence diagram of the protocol
+
 ## 5. Proof of Work algorithm
 
 Idea of Proof of Work to protect DDoS is based on the follow solution:

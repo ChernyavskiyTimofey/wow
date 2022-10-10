@@ -1,0 +1,8 @@
+@startuml
+title Sequence diagram of the protocol
+
+Client -> Server: request of AskType
+Client <- Server: response of ChallengeType
+Client -> Server: request of AnswerType
+Client <- Server: response of GrandType
+@enduml
