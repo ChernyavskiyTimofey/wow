@@ -1,0 +1,7 @@
+{
+  "server_host": "127.0.0.1",
+  "server_port": "8080",
+  "challenge_ttl": 60,
+  "hashcash_zeros_amount": 4,
+  "hashcash_max_iterations": 1000000
+}
