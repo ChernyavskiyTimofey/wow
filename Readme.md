@@ -176,3 +176,9 @@ quote: Marriage is about compromise. Being a winner isn’t important, working t
 2022/10/10 16:12:51 connected to 127.0.0.1:8080
 quote: Marriage takes work. But the payoff is years of happiness.
 ```
+
+## Feedback
+
+Before developing of the solution I made decisions to implement it with minimum test cycles of  start-stop.
+First success run of the server and the client was after just 7th attempts.
+It was my personal challenge for fun :)
