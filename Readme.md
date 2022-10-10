@@ -134,8 +134,8 @@ But all of these cons could be solved in a real application.
 - internal/hashcacsh - PoW algorithm
 - internal/protocol - contains structures, encoder and decoder for TCP-protocol messaging
 - internal/quotes - contains Word of Wisdom quotes
-- internal/client - the client logic
-- internal/server - the server logic
+- pkg/client - the client logic
+- pkg/server - the server logic
 
 ## Ways to improve
 
