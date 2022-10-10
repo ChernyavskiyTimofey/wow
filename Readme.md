@@ -146,6 +146,7 @@ Of course, every project could be improved. This project also has some ways to i
 - add on-fly the server/client configuration (to improve DDoS protection flexibly)
 - migrate in-memory quotes to SQL database like PostgreSQL
 - add session tokens to handle series of requests
+- add Docker configurations
 
 ## Outs examples
 
