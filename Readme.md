@@ -85,9 +85,10 @@ Idea of Proof of Work to protect DDoS is based on the follow solution:
 ### 5.1 PoW algorithm choose
 
 There are different algorithms Proof of Work:
--[Hashcash](https://en.wikipedia.org/wiki/Hashcash)
--[Guided tour puzzle](https://en.wikipedia.org/wiki/Guided_tour_puzzle_protocol)
--[Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree)
+
+- [Hashcash](https://en.wikipedia.org/wiki/Hashcash)
+- [Guided tour puzzle](https://en.wikipedia.org/wiki/Guided_tour_puzzle_protocol)
+- [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree)
 
 I compared these three algorithms as more famous and having most extensive description.
 
