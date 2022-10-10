@@ -179,6 +179,8 @@ quote: Marriage takes work. But the payoff is years of happiness.
 
 ## Feedback
 
-Before developing of the solution I made decisions to implement it with minimum test cycles of  start-stop.
-First success run of the server and the client was after just 7th attempts.
+Before developing of the solution I made decision to implement it within minimum test cycles of  start-stop.
+
+The first success run of the server and the client were after just 7th attempts.
+
 It was my personal challenge for fun :)
