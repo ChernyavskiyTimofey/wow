@@ -8,7 +8,7 @@ liter: install-linter
 	bin/golangci-lint run ./...
 
 run-server:
-	go run -race cmd/server/server.go -path=./config.json
+	go run -race cmd/server/main.go -path=./config.json
 
 run-client:
-	go run -race cmd/client/client.go -path=./config.json
+	go run -race cmd/client/main.go -path=./config.json
