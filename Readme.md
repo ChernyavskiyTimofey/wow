@@ -30,6 +30,12 @@ It runs the server with `race` golang flag and default configuration file `confi
 make run-server
 ```
 
+## Run both the client and the server with docker
+
+```shell
+make run-dockers
+```
+
 It runs the client with `race` golang flag and default configuration file `config.json`.
 
 ## Launch unit-tests:

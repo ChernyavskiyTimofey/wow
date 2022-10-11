@@ -12,3 +12,6 @@ run-server:
 
 run-client:
 	go run -race cmd/client/main.go -path=./config.json
+
+run-dockers:
+	docker-compose up
