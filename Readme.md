@@ -13,7 +13,8 @@
 
 ## Pre-setup
 
-- [Go 1.19+](https://go.dev/dl/) installed (to run the tests, the server or the client and check the code by linters)
+- [Go](https://go.dev/dl/) installed (to run the tests, the server or the client and check the code by linters)
+- [Docker](https://docs.docker.com/engine/install/) installed (to run docker-compose)
 
 ## Run the server
 
